@@ -1,0 +1,127 @@
+*{
+    color: black;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Segoe UI","Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.h1-pricing {
+    font-weight:300;
+    font-size: 60px;
+    text-align: center;
+}
+
+.h2-sentence {
+    text-align: center;
+    font-weight: 100;
+    font-size: 22px;
+}
+
+.firstdiv {
+    border-bottom: 1px solid gainsboro;
+    box-shadow: 0px 1px lightgrey;
+    padding: 3px 20px;
+    overflow: hidden;
+  }
+
+  h5 {
+      float: left;
+      font-weight: normal;
+      font-size: 20px;
+      color: #000000;
+      text-align: center;
+      padding: 15px 15px;
+      text-decoration: none;    
+  }
+
+  .firstdiv a {
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 15px 15px;
+  text-decoration: none;
+  }
+  
+  .menu:hover {
+    text-decoration: underline;
+  }
+  
+  .btn {
+    display: inline-block;
+    cursor: pointer;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border-color:skyblue;
+    border-style:solid;
+    margin: 20px;
+    padding: 10px 50px;
+    font-size: 20px;
+    line-height: 1.0;
+    border-radius: 4px;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  }
+  
+  .btn:hover{
+      background-color: skyblue;  
+    }
+
+.unique{
+    border-color:skyblue;
+    border-style:solid;
+    border-radius: .25rem;
+}
+
+  .unique:hover{
+    background-color: skyblue;  
+  }
+  
+  .firstdiv a.active {
+  background-color: #4CAF50;
+  color: white;
+  }
+  
+  .firstnav{
+  float: right;
+  }
+
+  small{
+    color: gray;
+    font-weight: normal;
+  }
+
+.gridcontainer .subgrid ul li{
+    display: block;
+  }
+
+  .gridcontainer{
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 55px 350px;
+  }
+
+  .subgrid{
+  align-content: center;
+  border: 2px solid lightgray;
+  border-radius: 4px;
+  font-size: 17px;
+  text-align: center;
+  }
+
+  .boxheader {
+   font-size: 30px;
+   font-weight: normal;
+   background-color: whitesmoke; 
+   border-bottom: 1px solid lightgray;
+   padding: 0px 10px;
+  }
+
+   .eych {
+    font-size: 30px;
+     padding: 10px 20px;
+    font-weight: normal;
+  }
+
+
