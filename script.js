@@ -1,0 +1,2 @@
+let myVariable = this ,variable
+
